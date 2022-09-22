@@ -16,7 +16,6 @@ exports.menuall = (sender, prefix, pushname, ucapanWaktu, tanggal, jam, isOwner)
 return `*OTHERS*
  • bot
  • wame
-
 *MAIN MENU*
  • ${prefix}id
  • ${prefix}simi
@@ -29,7 +28,29 @@ return `*OTHERS*
  • ${prefix}cekuser
  • ${prefix}runtime
  • ${prefix}dashboard
-
+*STORE MENU*
+ • ${prefix}list
+ • ${prefix}addlist
+ • ${prefix}dellist
+ • ${prefix}update
+ • ${prefix}tambah
+ • ${prefix}kurang
+ • ${prefix}kali
+ • ${prefix}bagi
+*PROSES/DONE*
+ • proses < reply chat >
+ • done < reply chat >
+ • ${prefix}setproses
+ • ${prefix}changeproses
+ • ${prefix}delsetproses
+ • ${prefix}setdone
+ • ${prefix}changedone
+ • ${prefix}delsetdone
+*RESPON/MESSAGE*
+ • ${prefix}delrespon
+ • ${prefix}addrespon
+ • ${prefix}setrespon
+ • ${prefix}listrespon
 *SET WELCOME/LEFT*
  • ${prefix}getleft
  • ${prefix}setleft
@@ -39,7 +60,13 @@ return `*OTHERS*
  • ${prefix}delwelcome
  • ${prefix}getwelcome
  • ${prefix}changewelcome
-
+*TOPUP OTOMATIS*
+ • ${prefix}gopay
+ • ${prefix}topupff
+*CEK USERNAME*
+ • ${prefix}nickff
+ • ${prefix}nickml
+ • ${prefix}nicksupersus
 *GROUP SETTING*
  • ${prefix}left on
  • ${prefix}left off
@@ -49,7 +76,6 @@ return `*OTHERS*
  • ${prefix}antiwame off
  • ${prefix}welcome on
  • ${prefix}welcome off
-
 *GROUP MENU*
  • ${prefix}add
  • ${prefix}kick
@@ -72,7 +98,10 @@ return `*OTHERS*
  • ${prefix}delopen
  • ${prefix}getopen
  • ${prefix}getclose
-
+*SALDO USER*
+ • ${prefix}ceksaldo <nomor>
+ • ${prefix}tarik <jumlah|nomor>
+ • ${prefix}kirim <nominal|nomor>
 *OWNERS MENU*
  • ${prefix}bc
  • ${prefix}ads
@@ -85,7 +114,6 @@ return `*OTHERS*
  • ${prefix}setppbot
  • ${prefix}setppbot 'panjang'
  • ${prefix}broadcast
-
 *RESTART DATABASE*
  • ${prefix}resetall
  • ${prefix}resetlist
@@ -93,7 +121,18 @@ return `*OTHERS*
  • ${prefix}resetgame
  • ${prefix}resetuser
  • ${prefix}resetsaldo
-
+*DEPOSIT/TOPUP*
+ • ${prefix}topup
+ • ${prefix}saldo
+ • ${prefix}topsaldo
+ • ${prefix}deposit
+ • ${prefix}komplain
+*RANDOM ASUPAN*
+ • ${prefix}rika
+ • ${prefix}bocil
+ • ${prefix}ghea
+ • ${prefix}hijab
+ • ${prefix}santuy
 *RANDOM MENU*
  • ${prefix}loli
  • ${prefix}dare
@@ -106,7 +145,6 @@ return `*OTHERS*
  • ${prefix}cecan
  • ${prefix}cogan
  • ${prefix}anime
-
 *DOWNLOAD MENU*
  • ${prefix}play
  • ${prefix}twitter
@@ -122,7 +160,6 @@ return `*OTHERS*
  • ${prefix}facebook
  • ${prefix}zippyshare
  • ${prefix}soundcloud
-
 *CONVERT STICKER*
  • ${prefix}sticker <reply image>
  • ${prefix}toimg <reply sticker>
@@ -140,13 +177,11 @@ return `*OTHERS*
  • ${prefix}tafsirsurah
  • ${prefix}asmaulhusna
  • ${prefix}bacaansholat
-
 *SCRENSHOT WEBSITE*
  • ${prefix}tablet
  • ${prefix}phone
  • ${prefix}ssweb
  • ${prefix}desktop
-
 *GAMES MENU*
  • ${prefix}judi
  • ${prefix}sell
@@ -172,7 +207,6 @@ return `*OTHERS*
  • ${prefix}tebakgambar
  • ${prefix}tebaktebakan
  • ${prefix}tebakgame
-
 *CANVAS MENU*
  • ${prefix}blur
  • ${prefix}circle
@@ -200,6 +234,12 @@ return `*OTHERS*
  • ${prefix}discordblue
  • ${prefix}discordblack
  
+*STRESS MENU*
+ • ${prefix}simp
+ • ${prefix}wangy
+ • ${prefix}wangy2
+ • ${prefix}nenen
+ • ${prefix}sherk
 *WALLPAPERS MENU*
  • ${prefix}game
  • ${prefix}islamic
@@ -207,7 +247,6 @@ return `*OTHERS*
  • ${prefix}cyberspace
  • ${prefix}technology
  • ${prefix}programming
-
 *SEARCH/TOOLS*
  • ${prefix}ttp
  • ${prefix}attp
@@ -235,4 +274,15 @@ return `*OTHERS*
  • ${prefix}gsmarena
  • ${prefix}happymod
  • ${prefix}quotesanime
-
+*THANKS TO*
+_> Fatih Arridho_
+_> Rwtone / irfan_
+_> Rimurubotz_
+_> Api-Lexxy_
+_> Yogi-Pw_
+_> My Subscribers_
+_> Lexxy Official_
+`
+}
+Footer
+© 2022 GitHub, Inc.
