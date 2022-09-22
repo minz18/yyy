@@ -1,0 +1,36 @@
+{
+    "ownerNumber": "6283812644727@s.whatsapp.net", 
+    "ownerName": "MinZ", 
+    "botName": "MinZ BOT",
+    "footer": "© UDIN | NEW", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/K5cTkWYjC285jHaPefAciM",
+    "yootube": "https://youtube.com/c/RisalTmy",
+     
+    "QrisAllPay": "https://instagram.com/zall.ajh?igshid=YmMyMTA2M2Y=",
+    "textBarisDonate1": "Dana : 0895xxx",
+    "textBarisDonate2": "Ovo : No!",
+    "textBarisDonate3": "Gopay : 0895xxx",
+    "textBarisDonate4": "Pulsa : 0895xxx",
+  
+    "ButtonTextMenu1": "Youtube",
+    "ButtonTextMenu2": "Tiktok",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://youtube.com/c/RisalTmy",
+    "ButtonMenuLink2": "https://www.tiktok.com/@zall.ajh?_t=8Ussvm2zM4v&_r=1",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 2559,
+    "limitGame": 2559,
+    "gamewaktu": 30,
+    "sticker": {
+        "packname": "© SANTED",
+        "author": "BANG UDIN KERIS"
+    }
+}
